@@ -8,7 +8,7 @@ import java.math.BigDecimal;
  */
 
 public class GoedeDoel {
-    private final String naam;
+    private String naam;
     private BigDecimal opbrengst = BigDecimal.ZERO;
 
     /**
